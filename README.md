@@ -20,7 +20,7 @@ genecode_to_dic.py <OUTPUT_sorted.gtf>
 
 **How to prepare Repeatmasker file**
 
-1. Download [RM V4.0.6](https://www.repeatmasker.org/species/hg.html) file, and conveert it to the clean bed format.
+1. Download [RM V4.0.6](https://www.repeatmasker.org/species/hg.html) file, and convert it to the clean bed format.
 
 ```
 clean_RM.ipynb
