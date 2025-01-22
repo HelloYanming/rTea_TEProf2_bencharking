@@ -1,7 +1,7 @@
-rmsk	/lab-share/Gene-Lee-ANR-e2/yanming/revise_rtea/simulation_reference_start/genome_46/RM/simulation_repeatmasker_clean_sort.bed.gz
-rmskannotationfile	/lab-share/Gene-Lee-e2/Public/home/yanming/washu/TEProf2Paper/rnapipeline/rnapipelinerefhg38/repeatmasker_description_uniq.lst
-gencodeplusdic	/home/ch241904/Desktop/ANR_LeeLab/revise_rtea/simulation_reference_start/genome_46/genecode_plus.dic
-gencodeminusdic	/home/ch241904/Desktop/ANR_LeeLab/revise_rtea/simulation_reference_start/genome_46/genecode_minus.dic
-focusgenes	/lab-share/Gene-Lee-e2/Public/home/yanming/washu/TEProf2Paper/rnapipeline/rnapipelinerefhg38/oncogenes_augmented.txt
-plusintron	/home/ch241904/Desktop/ANR_LeeLab/revise_rtea/simulation_reference_start/genome_46/gencode.v46.basic.annotation.sorted.gtf_introns_plus_sorted.gz
-minusintron	/home/ch241904/Desktop/ANR_LeeLab/revise_rtea/simulation_reference_start/genome_46/gencode.v46.basic.annotation.sorted.gtf_introns_minus_sorted.gz
+rmsk	../genome_46/RM/simulation_repeatmasker_clean_sort.bed.gz
+rmskannotationfile	../rnapipelinerefhg38/repeatmasker_description_uniq.lst
+gencodeplusdic	../genome_46/genecode_plus.dic
+gencodeminusdic	../genome_46/genecode_minus.dic
+focusgenes	../rnapipelinerefhg38/oncogenes_augmented.txt
+plusintron	../genome_46/gencode.v46.basic.annotation.sorted.gtf_introns_plus_sorted.gz
+minusintron	../genome_46/gencode.v46.basic.annotation.sorted.gtf_introns_minus_sorted.gz
