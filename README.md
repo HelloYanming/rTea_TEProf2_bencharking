@@ -47,4 +47,4 @@ tabix -p bed rmsk.bed.gz
 
 **Quick Run**
 
-After completing the annotation process for each GTF file (refer to the guidance in (Run annotation on each GTF file)[https://github.com/twlab/TEProf2Paper/blob/main/README.md]), we created a custom wrapper script to automate the process through to the final table creation. This script is available in the file run_command.sh.
+After completing the annotation process for each GTF file (refer to the guidance in (Run annotation on each GTF file)[https://github.com/twlab/TEProf2Paper/blob/main/README.md] ), we created a custom wrapper script to automate the process through to the final table creation. This script is available in the file run_command.sh.
